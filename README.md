@@ -74,6 +74,7 @@ error-prone, and expensive in staff time.
 
 ## Folder Structure
 
+```
 atm-ej-processor/
 │
 ├── journal_split.py          ← Stage 1 - process .dat files → PDFs
@@ -97,6 +98,7 @@ atm-ej-processor/
 └── journal_split_YYYYMMDD_HHMMSS.log
 └── excel_check_YYYYMMDD_HHMMSS.log
 
+```
 
 ---
 
@@ -197,9 +199,10 @@ and creating a complete digital audit trail for every transaction processed.
 
 ## Author
 
-**Gbemileke Emmanuel Falade**
+**Gbemileke Falade**
 
 Senior Data Analyst | AI/ML Practitioner | Data Consultant
+
 Lagos, Nigeria
 
 https://www.linkedin.com/in/gbemileke-falade
